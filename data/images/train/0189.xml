@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lah</folder>
+	<filename>219.jpg</filename>
+	<path>F:\Model week4\Raw Image\w\lah\219.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>233</ymin>
+			<xmax>145</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>
