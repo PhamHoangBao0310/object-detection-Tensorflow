@@ -15,7 +15,7 @@ from __future__ import absolute_import
 import os
 import io
 import pandas as pd
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import sys
 
 sys.path.append("../../models/research")
@@ -71,8 +71,8 @@ def create_tf_example(group, path, label_map):
         xmaxs.append(row["xmax"] / width)
         ymins.append(row["ymin"] / height)
         ymaxs.append(row["ymax"] / height)
-        classes_text.append(row["class"].encode("utf8"))
-        class_index = label_map.get(row["class"])
+        classes_text.append(str(row["class"]).encode("utf8"))
+        class_index = label_map.get(str(row["class"]))
         assert (
             class_index is not None
         ), "class label: `{}` not found in label_map: {}".format(
