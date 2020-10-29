@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4</folder>
+	<filename>0669.jpg</filename>
+	<path>E:\FPTdocument\Document\Machine Learning\VietAI_Advanced_CV\4\0669.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2568</width>
+		<height>1688</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>711</ymin>
+			<xmax>1405</xmax>
+			<ymax>1311</ymax>
+		</bndbox>
+	</object>
+</annotation>

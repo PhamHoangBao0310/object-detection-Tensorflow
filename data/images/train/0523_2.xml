@@ -1,0 +1,26 @@
+<annotation>
+    <folder>train</folder>
+    <filename>0523_2.jpg</filename>
+    <path>/content/drive/My Drive/object-detection-Tensorflow/data/images/train/0523_2.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>278</width>
+        <height>181</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>3</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>200</xmin>
+            <ymin>55</ymin>
+            <xmax>245</xmax>
+            <ymax>102</ymax>
+        </bndbox>
+    </object>
+</annotation>
