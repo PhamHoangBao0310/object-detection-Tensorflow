@@ -1,0 +1,26 @@
+<annotation>
+    <folder>Class 1</folder>
+    <filename>0049_3.jpg</filename>
+    <path>/content/drive/My Drive/VietAI/Class 1/0049_3.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>469</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>1</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>35</xmin>
+            <ymin>23</ymin>
+            <xmax>142</xmax>
+            <ymax>115</ymax>
+        </bndbox>
+    </object>
+</annotation>

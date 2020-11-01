@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Class 1</folder>
+	<filename>0094.jpg</filename>
+	<path>F:\Model week4\Class 1\0094.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1191</width>
+		<height>691</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>65</ymin>
+			<xmax>951</xmax>
+			<ymax>676</ymax>
+		</bndbox>
+	</object>
+</annotation>

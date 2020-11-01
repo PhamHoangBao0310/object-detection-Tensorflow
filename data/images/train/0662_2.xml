@@ -1,0 +1,26 @@
+<annotation>
+    <folder>test</folder>
+    <filename>0662_2.jpg</filename>
+    <path>/content/drive/My Drive/object-detection-Tensorflow/data/images/test/0662_2.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1280</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>4</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>638</xmin>
+            <ymin>-118</ymin>
+            <xmax>1964</xmax>
+            <ymax>1051</ymax>
+        </bndbox>
+    </object>
+</annotation>
