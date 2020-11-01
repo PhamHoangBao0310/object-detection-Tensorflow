@@ -1,13 +1,13 @@
 <annotation>
-	<folder>trước-trên xuống</folder>
-	<filename>grfdtdf.jpg</filename>
-	<path>F:\Model week4\Raw Image\trước-trên xuống\grfdtdf.jpg</path>
+	<folder>Class 1</folder>
+	<filename>0020.jpg</filename>
+	<path>F:\Model week4\Class 1\0020.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>450</height>
+		<width>750</width>
+		<height>499</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>332</xmin>
-			<ymin>318</ymin>
-			<xmax>377</xmax>
-			<ymax>429</ymax>
+			<xmin>18</xmin>
+			<ymin>11</ymin>
+			<xmax>725</xmax>
+			<ymax>476</ymax>
 		</bndbox>
 	</object>
 </annotation>

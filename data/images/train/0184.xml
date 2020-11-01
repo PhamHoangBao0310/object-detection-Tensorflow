@@ -1,13 +1,13 @@
 <annotation>
-	<folder>lah</folder>
-	<filename>184.jpg</filename>
-	<path>F:\Model week4\Raw Image\w\lah\184.jpg</path>
+	<folder>Class 1</folder>
+	<filename>0184.jpg</filename>
+	<path>F:\Model week4\Class 1\0184.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>512</width>
-		<height>288</height>
+		<width>665</width>
+		<height>432</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>139</xmin>
-			<ymin>215</ymin>
-			<xmax>166</xmax>
-			<ymax>271</ymax>
+			<xmin>181</xmin>
+			<ymin>145</ymin>
+			<xmax>284</xmax>
+			<ymax>418</ymax>
 		</bndbox>
 	</object>
 </annotation>

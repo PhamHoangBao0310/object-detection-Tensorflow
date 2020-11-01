@@ -1,13 +1,13 @@
 <annotation>
-	<folder>trước-trên xuống</folder>
-	<filename>asdfa.jpg</filename>
-	<path>F:\Model week4\Raw Image\trước-trên xuống\asdfa.jpg</path>
+	<folder>Class 1</folder>
+	<filename>0007.jpg</filename>
+	<path>F:\Model week4\Class 1\0007.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>512</width>
-		<height>288</height>
+		<width>800</width>
+		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>133</xmin>
-			<ymin>224</ymin>
-			<xmax>162</xmax>
-			<ymax>272</ymax>
+			<xmin>233</xmin>
+			<ymin>308</ymin>
+			<xmax>299</xmax>
+			<ymax>467</ymax>
 		</bndbox>
 	</object>
 </annotation>

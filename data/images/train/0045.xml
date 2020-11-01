@@ -1,26 +1,26 @@
 <annotation>
-	<folder>XEDAP</folder>
-	<filename>114.jpg</filename>
-	<path>F:\Model week4\Raw Image\XEDAP\114.jpg</path>
+	<folder>Class 1</folder>
+	<filename>0045.jpg</filename>
+	<path>F:\Model week4\Class 1\0045.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>512</width>
-		<height>287</height>
+		<width>750</width>
+		<height>1000</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>1</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>109</xmin>
-			<ymin>180</ymin>
-			<xmax>135</xmax>
-			<ymax>256</ymax>
+			<xmin>1</xmin>
+			<ymin>162</ymin>
+			<xmax>729</xmax>
+			<ymax>957</ymax>
 		</bndbox>
 	</object>
 </annotation>

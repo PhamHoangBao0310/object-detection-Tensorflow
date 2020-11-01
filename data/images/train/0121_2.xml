@@ -1,13 +1,13 @@
 <annotation>
-    <folder>train</folder>
+    <folder>Class 1</folder>
     <filename>0121_2.jpg</filename>
-    <path>/content/drive/My Drive/object-detection-Tensorflow/data/images/train/0121_2.jpg</path>
+    <path>/content/drive/My Drive/VietAI/Class 1/0121_2.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
     <size>
-        <width>512</width>
-        <height>288</height>
+        <width>289</width>
+        <height>174</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -17,10 +17,10 @@
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>432</xmin>
-            <ymin>158</ymin>
-            <xmax>495</xmax>
-            <ymax>225</ymax>
+            <xmin>142</xmin>
+            <ymin>96</ymin>
+            <xmax>203</xmax>
+            <ymax>173</ymax>
         </bndbox>
     </object>
 </annotation>

@@ -1,13 +1,13 @@
 <annotation>
-	<folder>c</folder>
-	<filename>167.jpg</filename>
-	<path>F:\Model week4\Raw Image\w\c\167.jpg</path>
+	<folder>Class 1</folder>
+	<filename>0167.jpg</filename>
+	<path>F:\Model week4\Class 1\0167.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>512</width>
-		<height>288</height>
+		<width>745</width>
+		<height>447</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>377</xmin>
-			<ymin>172</ymin>
-			<xmax>400</xmax>
-			<ymax>232</ymax>
+			<xmin>170</xmin>
+			<ymin>142</ymin>
+			<xmax>444</xmax>
+			<ymax>446</ymax>
 		</bndbox>
 	</object>
 </annotation>

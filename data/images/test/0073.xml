@@ -1,13 +1,13 @@
 <annotation>
-	<folder>sau</folder>
-	<filename>073.jpg</filename>
-	<path>F:\Model week4\Raw Image\sau\073.jpg</path>
+	<folder>Class 1</folder>
+	<filename>0073.jpg</filename>
+	<path>F:\Model week4\Class 1\0073.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>500</width>
-		<height>349</height>
+		<width>2048</width>
+		<height>1268</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>236</xmin>
-			<ymin>235</ymin>
-			<xmax>278</xmax>
-			<ymax>331</ymax>
+			<xmin>1171</xmin>
+			<ymin>325</ymin>
+			<xmax>1904</xmax>
+			<ymax>1202</ymax>
 		</bndbox>
 	</object>
 </annotation>

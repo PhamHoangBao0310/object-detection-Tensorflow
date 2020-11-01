@@ -1,13 +1,13 @@
 <annotation>
-	<folder>trước-trên xuống</folder>
-	<filename>ImageHandler.jpg</filename>
-	<path>F:\Model week4\Raw Image\trước-trên xuống\ImageHandler.jpg</path>
+	<folder>Class 1</folder>
+	<filename>0021.jpg</filename>
+	<path>F:\Model week4\Class 1\0021.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>450</height>
+		<width>750</width>
+		<height>500</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>129</xmin>
-			<ymin>182</ymin>
-			<xmax>179</xmax>
-			<ymax>288</ymax>
+			<xmin>45</xmin>
+			<ymin>17</ymin>
+			<xmax>716</xmax>
+			<ymax>476</ymax>
 		</bndbox>
 	</object>
 </annotation>

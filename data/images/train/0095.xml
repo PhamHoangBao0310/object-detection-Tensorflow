@@ -1,7 +1,7 @@
 <annotation>
-	<folder>sau</folder>
-	<filename>095.jpg</filename>
-	<path>F:\Model week4\Raw Image\sau\095.jpg</path>
+	<folder>Class 1</folder>
+	<filename>0095.jpg</filename>
+	<path>F:\Model week4\Class 1\0095.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>228</xmin>
-			<ymin>305</ymin>
-			<xmax>279</xmax>
-			<ymax>375</ymax>
+			<xmin>150</xmin>
+			<ymin>201</ymin>
+			<xmax>466</xmax>
+			<ymax>399</ymax>
 		</bndbox>
 	</object>
 </annotation>

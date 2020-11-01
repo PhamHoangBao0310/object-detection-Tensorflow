@@ -1,13 +1,13 @@
 <annotation>
-	<folder>hai bên</folder>
-	<filename>050.jpg</filename>
-	<path>F:\Model week4\Raw Image\hai bên\050.jpg</path>
+	<folder>Class 1</folder>
+	<filename>0050.jpg</filename>
+	<path>F:\Model week4\Class 1\0050.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>800</width>
-		<height>450</height>
+		<height>590</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>403</xmin>
-			<ymin>263</ymin>
-			<xmax>455</xmax>
-			<ymax>330</ymax>
+			<xmin>430</xmin>
+			<ymin>419</ymin>
+			<xmax>463</xmax>
+			<ymax>472</ymax>
 		</bndbox>
 	</object>
 </annotation>
