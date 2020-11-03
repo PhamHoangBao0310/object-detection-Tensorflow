@@ -1,0 +1,37 @@
+<annotation>
+    <folder>train</folder>
+    <filename>1067_3.jpg</filename>
+    <path>/content/drive/My Drive/VietAI/images/train/1067_3.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>288</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>4</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>135</xmin>
+            <ymin>61</ymin>
+            <xmax>235</xmax>
+            <ymax>172</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>4</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3</xmin>
+            <ymin>116</ymin>
+            <xmax>83</xmax>
+            <ymax>174</ymax>
+        </bndbox>
+    </object>
+</annotation>

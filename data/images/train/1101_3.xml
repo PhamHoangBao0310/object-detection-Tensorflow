@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>1101_3.jpg</filename>
+	<path>E:\FPTdocument\Document\Machine Learning\VietAI_Advanced_CV\data_final\object-detection-Tensorflow\data\images\train\1101_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>43</ymin>
+			<xmax>212</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>85</ymin>
+			<xmax>170</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>class_4</folder>
+	<filename>1084.jpg</filename>
+	<path>F:\Model week4\class_4\1084.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>517</xmin>
+			<ymin>278</ymin>
+			<xmax>619</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>243</ymin>
+			<xmax>359</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>
