@@ -1,0 +1,48 @@
+<annotation>
+    <folder>train</folder>
+    <filename>0609_2.jpg</filename>
+    <path>/content/drive/My Drive/VietAI/images/train/0609_2.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>4</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>-8</xmin>
+            <ymin>25</ymin>
+            <xmax>282</xmax>
+            <ymax>326</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>4</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>249</xmin>
+            <ymin>70</ymin>
+            <xmax>371</xmax>
+            <ymax>244</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>4</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>367</xmin>
+            <ymin>157</ymin>
+            <xmax>420</xmax>
+            <ymax>213</ymax>
+        </bndbox>
+    </object>
+</annotation>

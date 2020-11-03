@@ -1,0 +1,59 @@
+<annotation>
+    <folder>test</folder>
+    <filename>1043_2.jpg</filename>
+    <path>/content/drive/My Drive/VietAI/images/test/1043_2.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>4</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>-31</xmin>
+            <ymin>169</ymin>
+            <xmax>58</xmax>
+            <ymax>275</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>4</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>626</xmin>
+            <ymin>80</ymin>
+            <xmax>670</xmax>
+            <ymax>130</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>3</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>657</xmin>
+            <ymin>134</ymin>
+            <xmax>705</xmax>
+            <ymax>185</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>433</xmin>
+            <ymin>100</ymin>
+            <xmax>482</xmax>
+            <ymax>137</ymax>
+        </bndbox>
+    </object>
+</annotation>

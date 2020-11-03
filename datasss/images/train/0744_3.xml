@@ -1,0 +1,37 @@
+<annotation>
+    <folder>train</folder>
+    <filename>0744_3.jpg</filename>
+    <path>/content/drive/My Drive/VietAI/images/train/0744_3.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>4</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>854</xmin>
+            <ymin>220</ymin>
+            <xmax>1126</xmax>
+            <ymax>676</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>3</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>571</xmin>
+            <ymin>168</ymin>
+            <xmax>641</xmax>
+            <ymax>245</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,59 @@
+<annotation>
+    <folder>train</folder>
+    <filename>0731_3.jpg</filename>
+    <path>/content/drive/My Drive/VietAI/images/train/0731_3.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>4</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>871</xmin>
+            <ymin>63</ymin>
+            <xmax>1470</xmax>
+            <ymax>620</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>4</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>161</xmin>
+            <ymin>293</ymin>
+            <xmax>508</xmax>
+            <ymax>720</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>1</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>135</xmin>
+            <ymin>622</ymin>
+            <xmax>212</xmax>
+            <ymax>718</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>4</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>402</xmin>
+            <ymin>182</ymin>
+            <xmax>500</xmax>
+            <ymax>295</ymax>
+        </bndbox>
+    </object>
+</annotation>
